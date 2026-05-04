@@ -1,0 +1,13 @@
+name = "Main Quest Mob"
+author = "Noxedwin"
+version = "9.99"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9ff78ac0abfe032015335b806a45e4a04a62547a426b5f80c9c9a9fa440ac7ab"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
