@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "db8f8321481aef6cabd401d89f284c7ad0ea7f14e8044afcea295a399145530e"
+hash = "542abdf059d49109d5631856bb50681a924fe32522922292e0e710295274c374"
 
 [[files]]
 file = "icon.png"
