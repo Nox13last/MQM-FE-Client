@@ -1,0 +1,5 @@
+
+[logbegone]
+	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Expected BEGIN_OBJECT", "Exception loading blockstate definition", "Failed to load model", "Failed to load localization", "Invalid frame index", "M&A -> Block Items Registered", "M&A -> Ritual Effects Registered", "Mana and Artifice >> Registered Construct Tasks", "Couldn't get patreons"]
+	regex = ["Disconnecting VANILLA connection attempt", "Channels "]
+
