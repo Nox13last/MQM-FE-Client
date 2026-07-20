@@ -201,6 +201,10 @@ file = "mods/dimdungeons-202-forge-1.20.1.jar"
 hash = "12f0d3a858129707c3da88b0a47858417f749ba3ba2f05042ffe87bfe8d5d3bb"
 
 [[files]]
+file = "mods/discord_chat_mod-forge-1.20.1-2.6.2.jar"
+hash = "3e744102078f5a1bad2b424fb01c04c7a3bc5f0636c671bfbf2d3926657a35ea"
+
+[[files]]
 file = "mods/dmnr-3.2.6.jar"
 hash = "b9e5cae6eebd9fc419c370c37c1b07aea9371d15f5703a0ec431f8554c7c0b7b"
 
