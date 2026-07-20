@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "dd71a62bb4c9040345a323483b3f888a0f6644df244777ae4e65a727ac42b44f"
+hash = "4476c05a2ff743b203537a17942ff68a92c7be5ebc786254f107b9c5314627d7"
 
 [[files]]
 file = "icon.png"
@@ -199,10 +199,6 @@ hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
 [[files]]
 file = "mods/dimdungeons-202-forge-1.20.1.jar"
 hash = "12f0d3a858129707c3da88b0a47858417f749ba3ba2f05042ffe87bfe8d5d3bb"
-
-[[files]]
-file = "mods/discord_chat_mod-forge-1.20.1-2.6.2.jar"
-hash = "3e744102078f5a1bad2b424fb01c04c7a3bc5f0636c671bfbf2d3926657a35ea"
 
 [[files]]
 file = "mods/dmnr-3.2.6.jar"
