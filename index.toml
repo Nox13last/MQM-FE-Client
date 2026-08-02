@@ -177,6 +177,10 @@ file = "mods/cofh_core-1.20.1-11.0.2.56.jar"
 hash = "d7cd3ec8083e294e17cb50fe607b416c1dc83ce885e53ba3995d86e028f790e0"
 
 [[files]]
+file = "mods/collective-1.20.1-8.39.jar"
+hash = "594bc5d40f2a3fec1ad95732524f65e01a27ac2abeb9d59889cd9f01fd8db6cb"
+
+[[files]]
 file = "mods/configured-forge-1.20.1-2.2.3.jar"
 hash = "05dceddd57825f911135c929504ef320b75953d05e7dc918dba58a0574e5315f"
 
@@ -217,12 +221,20 @@ file = "mods/doubledoors-1.20.1-7.2.jar"
 hash = "1847baf0f97a3ebc07735743b0e226c45dd7c289cd03214bcfc7f49ed44ccb1e"
 
 [[files]]
+file = "mods/embeddium-0.3.31+mc1.20.1.jar"
+hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+
+[[files]]
 file = "mods/emi-1.1.22+1.20.1+forge.jar"
 hash = "877a2831c44ab7a0e1f8da0df92125b42f93c6f9b9e4dd1ceb566d8adc67950a"
 
 [[files]]
 file = "mods/ensorcellation-1.20.1-5.0.2.24.jar"
 hash = "84cb18702db2a26dfd5a21ff007e2bcf40e16092adf7b2a33b8489987c4d7b45"
+
+[[files]]
+file = "mods/fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar"
+hash = "6b4853214c5cc156b187b86162df2db028c0ddcf90380fa1897068cde2622de1"
 
 [[files]]
 file = "mods/fnc-1.2.10.jar"
@@ -313,10 +325,6 @@ file = "mods/mcjtylib-1.20-8.0.6.jar"
 hash = "ef5f32a85584b6464d76bf98c967775335f8b3c8dcb6694572ade316583bb9f2"
 
 [[files]]
-file = "mods/mna-forge-1.20.1-3.1.0.4-all.jar"
-hash = "af90e85ebf792213dbe2a36ccf96aed48fdbed81449fc68ef420b3915c5c5d5b"
-
-[[files]]
 file = "mods/mna-forge-1.20.1-3.1.11-all.jar"
 hash = "6bda8e55a9492ea1baf3186088d9b5de405b5efdea079801527de8ae7fc30e15"
 
@@ -335,6 +343,10 @@ hash = "3e8f152bfe0e57718553d5baa1e6fdefe04867470446cadd81d0e0c8b08b5150"
 [[files]]
 file = "mods/mytharc-0.1.1.jar"
 hash = "102224ccfae2356c58d01a3559d2b6dc662c077de0aa5a285c3b788add93b8bd"
+
+[[files]]
+file = "mods/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar"
+hash = "1595c586e9c3e7e9a455d23b1686cc82f8d9e11578efd86a10a7031995301390"
 
 [[files]]
 file = "mods/playershops-1.2.3-1.20.1.jar"
@@ -371,6 +383,10 @@ hash = "930aa44ae426a8e67d144baf7a5bf5028acd2c39b919b0614fae401ccec924b7"
 [[files]]
 file = "mods/signtastic-1.20-3.0.2.jar"
 hash = "5b05826ed49d578236d4a6f17f7fae3eb73dc2e752ed082e01241912f91d1813"
+
+[[files]]
+file = "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
+hash = "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4"
 
 [[files]]
 file = "mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar"
