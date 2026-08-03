@@ -413,10 +413,6 @@ file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
 
 [[files]]
-file = "mods/vcadmin_1_20_1-1.jar"
-hash = "e1414290e889165db18685e7e7f37e85ec6b379a74ba374c610a96564633f3a3"
-
-[[files]]
 file = "mods/voicechat-forge-1.20.1-2.6.21.jar"
 hash = "26bb5a271fbff83c39c9f956d108157db46acb868a67175176d1233693771434"
 
