@@ -113,6 +113,10 @@ file = "mods/Patchouli-1.20.1-85-FORGE.jar"
 hash = "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5"
 
 [[files]]
+file = "mods/PictureCam.jar"
+hash = "d0a9c5a4b57fc0b4b9e0d2b1ad932e3f72c086316d4375273991262d21939fbd"
+
+[[files]]
 file = "mods/Placebo-1.20.1-8.6.3.jar"
 hash = "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
 
@@ -407,6 +411,14 @@ hash = "1ea4117df3b1f7532f8abb2a09f48150a23225dfd6cbd663f0c00c7a62a4c879"
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
+
+[[files]]
+file = "mods/vcadmin_1_20_1-1.jar"
+hash = "e1414290e889165db18685e7e7f37e85ec6b379a74ba374c610a96564633f3a3"
+
+[[files]]
+file = "mods/voicechat-forge-1.20.1-2.6.21.jar"
+hash = "26bb5a271fbff83c39c9f956d108157db46acb868a67175176d1233693771434"
 
 [[files]]
 file = "mods/walkers-5.8.6.jar"
