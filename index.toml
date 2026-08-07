@@ -5,6 +5,10 @@ file = "config/logbegone.toml"
 hash = "4476c05a2ff743b203537a17942ff68a92c7be5ebc786254f107b9c5314627d7"
 
 [[files]]
+file = "config/securitycraft-client.toml"
+hash = "3093c52280904c9a8f111fdf4a016c5785b817ac022389e19de9f61dbc8631bf"
+
+[[files]]
 file = "icon.png"
 hash = "e70af93ca4f4fcf15a2ae75095049a656316e346bab79a7de867370261fca5e4"
 
