@@ -6,7 +6,7 @@ hash = "4476c05a2ff743b203537a17942ff68a92c7be5ebc786254f107b9c5314627d7"
 
 [[files]]
 file = "config/securitycraft-client.toml"
-hash = "3093c52280904c9a8f111fdf4a016c5785b817ac022389e19de9f61dbc8631bf"
+hash = "66db8d17202152a800e6e721789efdb245b4d8e91a25c18462b713dfdce37fea"
 
 [[files]]
 file = "icon.png"

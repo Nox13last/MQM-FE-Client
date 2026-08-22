@@ -1,0 +1,5 @@
+
+[logbegone]
+	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Expected BEGIN_OBJECT", "Exception loading blockstate definition", "Failed to load model", "Failed to load localization", "Invalid frame index", "M&A -> Block Items Registered", "M&A -> Ritual Effects Registered", "Mana and Artifice >> Registered Construct Tasks", "Couldn't get patreons", "Couldn't parse element", "Expected name to be an item", "Error rendering overlay", "registerRecipes", "registerRecipeTransferHandlers", "registerRecipeCatalysts", "registerVanillaCategoryExtensions", "Cannot invoke", "Error executing task on Client", "registerExtraIngredients", "registerIngredients", "registerFluidSubtypes", "registerItemSubtypes", "Durations have no impact on this type of recipe."]
+	regex = ["Disconnecting VANILLA connection attempt", "Channels "]
+
