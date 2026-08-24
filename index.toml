@@ -181,6 +181,10 @@ file = "mods/cfm-forge-1.20.1-7.0.0-pre36.jar"
 hash = "5fdbc245003d2cb46b92eb9120d7bca7f03422628daed24c818baa195efe8663"
 
 [[files]]
+file = "mods/claim_shop_for_lightmans_currency-0.2.1.jar"
+hash = "8020caad66d712b7afdde9e34d3d7d1205dac4ec5b7fe7ab631000dec65f8ebf"
+
+[[files]]
 file = "mods/cloth-config-11.1.136-forge.jar"
 hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
 
@@ -253,8 +257,8 @@ file = "mods/fnc-1.2.10.jar"
 hash = "c36f913a5bc4fda63401408c157fbb961c78a9efbe46751ff4d1be1273fee4d0"
 
 [[files]]
-file = "mods/ftb-chunks-forge-2001.3.6.jar"
-hash = "caaa40aea64bba6f113fbddcabf77962b4b4e03bf57cbabace07ab05d28b38f9"
+file = "mods/ftb-chunks-forge-2001.3.8.jar"
+hash = "783f7aa42089b6f72500801284796f7cc8eb641ecddcf76f65bf586c017efb02"
 
 [[files]]
 file = "mods/ftb-essentials-forge-2001.2.3.jar"
@@ -265,8 +269,8 @@ file = "mods/ftb-filter-system-forge-20.0.1.jar"
 hash = "fcb7b312a010986a868a6645e4e395b2635383a2387297c7c134aa4250959e24"
 
 [[files]]
-file = "mods/ftb-library-forge-2001.2.12.jar"
-hash = "f09335944fff8ca3ef37a40e0b125ffb6707759ede258c73f9ce9bac61bfbf96"
+file = "mods/ftb-library-forge-2001.2.13.jar"
+hash = "41810281b65336265cae2c88412022d02f2f0a3f28c66a06173d86f98acf14a7"
 
 [[files]]
 file = "mods/ftb-quests-forge-2001.4.17.jar"
@@ -283,6 +287,10 @@ hash = "d6e3cf8d0bdae7f848764428c613ae2528aecf9d275b4169eb8e15da87b41863"
 [[files]]
 file = "mods/ftb-xmod-compat-forge-2.1.3.jar"
 hash = "16a8eb9de88d5c33d29cb076cc39dfb337b2c54348e1ef1efe9dd60cf85e5f72"
+
+[[files]]
+file = "mods/ftb_chunks_mobs_spawn_control-1.0.2.jar"
+hash = "0f87a3c3f70e0822fab120d3b092ef3fed26909f70e09a5fbd774b6bf470559d"
 
 [[files]]
 file = "mods/geckolib-forge-1.20.1-4.7.jar"
@@ -309,16 +317,24 @@ file = "mods/ironchest-1.20.1-14.4.4.jar"
 hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
 
 [[files]]
-file = "mods/kotlinforforge-4.11.0-all.jar"
-hash = "ef988f86d170af499d147ea8a5c34c99dbd6d8f4a5ad236a4b43818dc4470a10"
+file = "mods/kotlinforforge-4.12.0-all.jar"
+hash = "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
 
 [[files]]
 file = "mods/kubejs-forge-2001.6.5-build.16.jar"
 hash = "3de6b7267d3aab981848ed54d3afe7edf20532fa4060631fd6fffcd99ac5f3d5"
 
 [[files]]
+file = "mods/lcompat-1.20-0.0.0.1b.jar"
+hash = "938b161dde1b9b226de889d816506098fa6005881453211a4e9c3742374b73bc"
+
+[[files]]
 file = "mods/libIPN-forge-1.20-4.0.2.jar"
 hash = "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
+
+[[files]]
+file = "mods/lightmanscurrency-1.20.1-2.2.5.1c.jar"
+hash = "ffacdcb8c2266ee481dd8d39f8befa6eb94acfcea48c2cb54bbdce51f84f8362"
 
 [[files]]
 file = "mods/littlecontraptions-0.0.1-1.20.1.jar"
