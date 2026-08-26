@@ -241,6 +241,10 @@ file = "mods/create_magics-2.0.0-1.20.1.jar"
 hash = "87b4706c7a6e88f11acfd6f4956d8e917e35c65f1a99ea42fdbc49af8994e4ad"
 
 [[files]]
+file = "mods/cupboard-1.20.1-4.0.jar"
+hash = "f0b009883912595746114466c9045c3678f4612734f5dbbe10e447e4037cf44e"
+
+[[files]]
 file = "mods/curios-forge-5.14.1+1.20.1.jar"
 hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
 
