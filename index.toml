@@ -477,6 +477,10 @@ file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
 
 [[files]]
+file = "mods/viewboard-forge-1.20.1-1.2.3.jar"
+hash = "ad5359cb88fa4648fe67ec085d884a7ea0cb7053f7bf836793bd06297e0795fd"
+
+[[files]]
 file = "mods/voicechat-forge-1.20.1-2.6.21.jar"
 hash = "26bb5a271fbff83c39c9f956d108157db46acb868a67175176d1233693771434"
 
