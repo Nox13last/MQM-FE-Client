@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "a2c99e294f6186c0450ee10cf6d98f27dec6735baaa77d1b2731e6d4811042d3"
-
-[[files]]
 file = "configureddefaults/inventoryprofiles.json"
 hash = "be29180cd116d40ced8012e20a8abf5dc090f60b05db018ed3a8d974c0b3f71b"
 
