@@ -445,12 +445,20 @@ file = "mods/signtastic-1.20-3.0.2.jar"
 hash = "5b05826ed49d578236d4a6f17f7fae3eb73dc2e752ed082e01241912f91d1813"
 
 [[files]]
+file = "mods/sleeping-bags-forge-1.20.1-1.0.9.jar"
+hash = "f1e4c11b3a151e9f13c55ab9c72a107ba3651ad250b5912fa85bda9d14d3728f"
+
+[[files]]
 file = "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
 hash = "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4"
 
 [[files]]
 file = "mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar"
 hash = "57ce3c7d5abe724d9fb82f3d068b7717a56b94b7d3ea98f90a2f9ca61c8f57b1"
+
+[[files]]
+file = "mods/sweetdreams-1.0.0.jar"
+hash = "6cfbb1bfb4d1da9830245de22723fdc145ce6ffb123a0a90a5028c7b3dd4d44d"
 
 [[files]]
 file = "mods/tabinfo-1.0.6 1.20.1 Forge.jar"
