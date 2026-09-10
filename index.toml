@@ -449,10 +449,6 @@ file = "mods/signtastic-1.20-3.0.2.jar"
 hash = "5b05826ed49d578236d4a6f17f7fae3eb73dc2e752ed082e01241912f91d1813"
 
 [[files]]
-file = "mods/simpletts-1.20.1-Forge-1.0.0.jar"
-hash = "206c1b97aedc9f91c0c1d37c4fc98ad396a0648576c101ad890ac4b956942e54"
-
-[[files]]
 file = "mods/sleeping-bags-forge-1.20.1-1.0.9.jar"
 hash = "f1e4c11b3a151e9f13c55ab9c72a107ba3651ad250b5912fa85bda9d14d3728f"
 
@@ -507,10 +503,6 @@ hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
 [[files]]
 file = "mods/yawp-1.20.1-forge-0.6.3-beta1.jar"
 hash = "58574a264e9620f83b1e24d6b131107ee2dacf279796df5d7bb24b188004227c"
-
-[[files]]
-file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
-hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
 
 [[files]]
 file = "mods/youaremypoison-1.0.1-forge-1.20.1.jar"
