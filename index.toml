@@ -533,5 +533,10 @@ file = "patchouli_data.json"
 hash = "0d6f8bff5d59d58e2ddda36b742394251afe308cb8cf96fac6c6c06144e28a15"
 
 [[files]]
+file = "readme.pw.toml"
+hash = "71f6750d95e7e102c9349ea13d633ad96f2aabadbce32a4033cf37504a6e3fd1"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "ae8e209b9c633755289b6136c3ff9a79ae7d23a0da8712225976fe5679cfca3d"
