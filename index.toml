@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "241742dc4f3e5ed03f81abb6b67bff38408dcd08fee84f40eb49e070afa6a8d5"
-
-[[files]]
 file = "configureddefaults/inventoryprofiles.json"
 hash = "be29180cd116d40ced8012e20a8abf5dc090f60b05db018ed3a8d974c0b3f71b"
 
@@ -531,11 +527,6 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 [[files]]
 file = "patchouli_data.json"
 hash = "0d6f8bff5d59d58e2ddda36b742394251afe308cb8cf96fac6c6c06144e28a15"
-
-[[files]]
-file = "readme.pw.toml"
-hash = "71f6750d95e7e102c9349ea13d633ad96f2aabadbce32a4033cf37504a6e3fd1"
-metafile = true
 
 [[files]]
 file = "servers.dat"
