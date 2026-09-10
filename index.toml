@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "241742dc4f3e5ed03f81abb6b67bff38408dcd08fee84f40eb49e070afa6a8d5"
+
+[[files]]
 file = "configureddefaults/inventoryprofiles.json"
 hash = "be29180cd116d40ced8012e20a8abf5dc090f60b05db018ed3a8d974c0b3f71b"
 
@@ -447,6 +451,10 @@ hash = "930aa44ae426a8e67d144baf7a5bf5028acd2c39b919b0614fae401ccec924b7"
 [[files]]
 file = "mods/signtastic-1.20-3.0.2.jar"
 hash = "5b05826ed49d578236d4a6f17f7fae3eb73dc2e752ed082e01241912f91d1813"
+
+[[files]]
+file = "mods/simpletts-1.20.1-Forge-1.0.0.jar"
+hash = "206c1b97aedc9f91c0c1d37c4fc98ad396a0648576c101ad890ac4b956942e54"
 
 [[files]]
 file = "mods/sleeping-bags-forge-1.20.1-1.0.9.jar"
