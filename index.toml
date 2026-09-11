@@ -173,6 +173,10 @@ file = "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
 hash = "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1"
 
 [[files]]
+file = "mods/Voiceless Survival-forge-1.20.1-2.1.2.jar"
+hash = "d0447e97ca50d92b58a94e8855083373803c8e2c1a5102772b8df8a485199321"
+
+[[files]]
 file = "mods/Zeta-1.0-31.jar"
 hash = "cd1786902a79434f8fd762d741019d9c8a79725fef7e30a89c153c934e1e6a9e"
 
