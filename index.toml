@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/chatplus/chatplus-v2.7.0.json"
+hash = "e71cc445447380386d75b398dec7609468e6cb9a54e6264024cce75ebc216e9c"
+
+[[files]]
 file = "configureddefaults/inventoryprofiles.json"
 hash = "be29180cd116d40ced8012e20a8abf5dc090f60b05db018ed3a8d974c0b3f71b"
 
