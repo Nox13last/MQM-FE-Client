@@ -24,3 +24,5 @@ key_key.cast-hand-slot:key.keyboard.3:CONTROL
 key_key.cast-belt-slot:key.keyboard.2:CONTROL
 key_key.cast-back-slot:key.keyboard.1:CONTROL
 key_key.cast-any-slot:key.keyboard.c:CONTROL
+key_dmnr.key.use_spell_storing_ring:key.keyboard.unknown
+key_dmnr.key.toggleflight:key.keyboard.unknown
