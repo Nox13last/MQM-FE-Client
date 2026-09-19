@@ -513,8 +513,8 @@ file = "mods/worldedit-mod-7.2.15.jar"
 hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
 
 [[files]]
-file = "mods/yawp-1.20.1-forge-0.6.3-beta1.jar"
-hash = "58574a264e9620f83b1e24d6b131107ee2dacf279796df5d7bb24b188004227c"
+file = "mods/yawp-0.6.3-beta1.jar"
+hash = "a369b70d4a70abcd5fdea3cb459585f90795c54cd81959b0fd8bd8c5efd9e876"
 
 [[files]]
 file = "mods/youaremypoison-1.0.1-forge-1.20.1.jar"
